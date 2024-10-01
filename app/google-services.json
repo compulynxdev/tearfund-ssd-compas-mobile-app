@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276274433997",
+    "project_id": "tearfund-28a52",
+    "storage_bucket": "tearfund-28a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276274433997:android:459104303be2c46ed57e84",
+        "android_client_info": {
+          "package_name": "com.compastbc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276274433997-matnvq65cinaftkcpjei0vrb7nk02u9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.compastbc",
+            "certificate_hash": "b921679d15f0be4f6b534712db2ebccbce13f39c"
+          }
+        },
+        {
+          "client_id": "276274433997-ad1ku81g53orooscqbecpg2q0e3lnr3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPozZhzQl9XOFXIJj41BxPqC4FGP_HxF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276274433997-ad1ku81g53orooscqbecpg2q0e3lnr3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
